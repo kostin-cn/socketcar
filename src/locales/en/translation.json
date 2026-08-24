@@ -1,0 +1,83 @@
+{
+	"menu": {
+		"howItWork": "How it works?",
+		"aboutUs": "About us",
+		"partnership": "Partnership",
+		"contacts": "Contacts"
+	},
+	"title": {
+		"safety": "safety.",
+		"reliability": "reliability.",
+		"comfort": "comfort."
+	},
+	"sub-title": "SocketCar - maximum car security against any car theft scenario.",
+	"button": {
+		"discover": "Discover",
+		"watchVideo": "Watch video",
+		"buyNow": "Buy now",
+		"protect": "Protect your car",
+		"partner": "Become a partner"
+	},
+	"howItWorks": "So, how it works?",
+	"howItWorksDescription": {
+		"unique": "It is a unique electromechanical anti-theft device with a contact system. Absence of contactless system control makes it protected from remote “hacking”. Fully compatible with electronic anti-theft systems. The product is fully certified. SocketCar is an advanced analogue of the world famous Ravelco anti-theft system. The operation principle is identical, but implementation is completely different.",
+		"device": "When the key is inserted into the multi-pin connector, electrical circuits are closed by the key contacts, and the car operates normally. But, when you remove the key, the electrical systems of the car are opened and blocked, such as: fuel pump, control unit, crankshaft sensor, spark plugs with coils, fuel injector, ignition coil, starter and other electrical equipment of the vehicle. Vehicle movement under its own power becomes impossible.",
+		"system": "Socket uses quality wires taken from the aircraft industry. By the way, such a giant as ANTONOV uses them in its aircrafts.",
+		"aesthetics": "Each key connector in combination with a multi-pin connector is an individual device that can only be restored by the manufacturer."
+	},
+	"ourPartners": "Our partners",
+	"advantages": {
+		"title": "Advantages",
+		"key": "Socket-key and Socket-connector is much smaller and looking aesthetically better than Ravelco connectors.",
+		"connector": "Key-connector looks like a stylish metal keychain.",
+		"shild": "Key locks securely in the socket thanks to the Push & Pull self-latching system. The key connector connects to the multi-pin connector in the only position and provides protection against vibrations and key falling out while driving.",
+		"circle": "Contacts in the key-connector are gold-plated, which contributes to excellent electrical contact and long service life; they are resistant to corrosion and oxidation.",
+		"cable": "Wires have small cross-section, which, in the event of a tampering by closing the contacts, will damage the socket wire and make it even more difficult to steal.",
+		"tester": "Small size of the multi-pin connector is also a plus when trying to ring out the device with an electrical tester.",
+		"wheel": "Each vehicle owner can choose an individual location for the fixed connector, that only he will know.",
+		"certificate": {
+			"text": "The system has a certificate of conformity approved by the conformity assessment agency LLC ",
+			"link": "\"Certification agency “PromStandard\""
+		}
+	},
+	"components": {
+		"title": "Components of the system",
+		"subTitle": "The SocketCar System Kit includes:",
+		"multiPin": "Stationary multi-pin connector",
+		"connector": "Key connector (2 pcs.)",
+		"wires": "High quality wires",
+		"manual": "User's Manual"
+	},
+	"service": {
+		"title": "Installation and service",
+		"system": "The system shall be installed at the manufacturer's service station by qualified specialists with extensive experience of similar works and installation.",
+		"description": "If necessary, the manufacturer can produce additional keys. The service life of the anti-theft device is at least 10 years. The warranty period is 3 years."
+	},
+	"miniCars": "mini cars",
+	"smallCars": "small cars",
+	"mediumCars": "medium cars",
+	"largerCars": "larger cars",
+	"executiveCars": "executive cars",
+	"luxuryCars": "luxury cars",
+	"sportsUtility": "sports utility",
+	"multiPurpose": "multi purpose cars",
+	"sportCoupes": "sport coupes",
+	"license": "Cost of equipment and installation",
+	"carPrice": "Check the price with the manager",
+	"aboutUs": {
+		"title": "About us",
+		"description": "SocketCar is a young, actively developing company with extensive experience in the field of car security.",
+		"conclusion": "We arrived to a conclusion that combination of mechanical and electrical system components can guarantee high efficiency of a device and truly protect your vehicle. Our goal is to reduce the percentage of vehicle thefts, increase the number of grateful customers, win your trust!",
+		"partner": {
+			"top": "SocketCar is your convenient and",
+			"bot": "secure partner!"
+		}
+	},
+	"partnership": {
+		"title": "Partnership",
+		"offer": "We offer cooperation to insurance companies, car dealerships, car repair shops. Our goals is effective counteraction to intruders and maximum protection of your vehicle from theft."
+	},
+	"contactUs": {
+		"description": "We are always ready to listen to new suggestions and wishes regarding operation of the service."
+	}
+}
